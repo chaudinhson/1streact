@@ -1,0 +1,10 @@
+.StylesButton {
+  color: #000;
+  border: none;
+  background-color: #ffbe88;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
